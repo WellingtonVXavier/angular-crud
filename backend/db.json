@@ -21,9 +21,19 @@
       "price": 1.5
     },
     {
-      "name": "Geladeira",
-      "price": "1913.99",
+      "name": "sofá",
+      "price": "3000.99",
       "id": 5
+    },
+    {
+      "id": 6,
+      "name": "fogão",
+      "price": "2897.99"
+    },
+    {
+      "name": "mesa",
+      "price": "3000.99",
+      "id": 7
     }
   ]
 }
