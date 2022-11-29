@@ -34,6 +34,11 @@
       "name": "mesa",
       "price": "3000.99",
       "id": 7
+    },
+    {
+      "name": "cadeira",
+      "price": "1500.99",
+      "id": 8
     }
   ]
 }
